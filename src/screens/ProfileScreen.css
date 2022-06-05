@@ -8,7 +8,7 @@
     width: 50%;
     margin-left: auto;
     margin-right: auto;
-    padding-top: 8%;
+    padding-top: 5%;
     max-width: 800px;
 }
 .profileScreen__info {
@@ -20,7 +20,7 @@
     flex: 1;
 }
 .profileScreen__body > h1 {
-    font-size: 60px;
+    font-size: 40px;
     font-weight: 400;
     border-bottom: 1px solid #282c2d;
     margin-bottom: 20px;
