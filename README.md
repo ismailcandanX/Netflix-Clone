@@ -17,6 +17,7 @@ Test Payment by Credit Card:
 - Reactjs
 - Redux
 - Stripe
+- TMDb API
 - Cloud Firestore / Firebase db
 - Authentication with Firebase 🔑 ( LogIn and LogOut )
 - Create new user with Firebase 🔑 ( SignIn )
